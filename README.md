@@ -12,8 +12,12 @@ I am interested in keeping track of my fitness goals. This app will allow users 
 The user will also have to use a weight scale and take pictures through the app of their body to get the most accurate results. The users will have access to see how they are progressing by looking at the graphs that will show overall progression:
 
 * weight 
-* body fat percentage 
-1. food consumption from a
+* body fat percentage
+* waist measuremeant
+* Progress Pictures
+* food consumption 
+
+1. All can be tracked:
  * Daily 
  * Weekly 
  * Monthly
