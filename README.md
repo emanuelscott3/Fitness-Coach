@@ -37,4 +37,4 @@ Users can scan food items with their phones, in the app it will store the food i
 
 The app will have daily reminders, upcoming meals and workouts. The user will receive alerts on monthly, quarterly and yearly achievements badges. The alert will notify the user they have burned 10,000 calories this month. The user will also have a reminder alerting them to burn more the following month or to try setting a higher goal since they are killing the workouts.  The best feature of the app will be the ability to connect to a live personal trainer and to request for customizable meals for the user
 
-MSSA 18-Week ASP.NET Core MVC Web Applic
+MSSA *__18-Week__* __ASP.NET__ *Core* MVC _Web_ **Application** Project
