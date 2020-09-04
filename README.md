@@ -7,7 +7,7 @@
 
  #
 
-[DATAbase Diagram(FitnessDBDiagram.pdf)
+[Database Diagram](FitnessDBDiagram.pdf)
 
 I am interested in keeping track of my fitness goals. This app will allow users to track their macros, daily workouts, water consumption and meal plans tailored to them. To figure out a weight lift phase user will be able to choose which weight training option is best for them. Here are the categories: Muscle strength, Increased Muscle Size, Maintain and HITT training. 
 
